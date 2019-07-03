@@ -1,0 +1,8 @@
+# Ignore OS X files
+.DS_Store
+
+# Ignore VS Code files
+.vscode/
+
+# Ignore work in progress designs
+/work_in_progress
